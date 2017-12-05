@@ -21,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/oracle_where_order_multitable.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="50">
-                <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="7" />
+              <first_editor relative-caret-position="341">
+                <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -177,18 +177,18 @@
       <option name="presentableId" value="Default" />
       <updated>1512436438734</updated>
       <workItem from="1512436440206" duration="151000" />
-      <workItem from="1512436602149" duration="679000" />
+      <workItem from="1512436602149" duration="921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="830000" />
+    <option name="totallyTimeSpent" value="1072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1438" height="858" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1533052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.044303797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -220,8 +220,8 @@
     <entry file="file://$PROJECT_DIR$/oracle_where_order_multitable.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="50">
-            <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="7" />
+          <first_editor relative-caret-position="341">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

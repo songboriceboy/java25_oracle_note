@@ -17,3 +17,9 @@ public class Main {
 }
 
 ```
+
+下面是一段sql代码  
+```sql
+select * from emp where HIREDATE BETWEEN '1981-01-01' and '1981-12-31'
+```
+
