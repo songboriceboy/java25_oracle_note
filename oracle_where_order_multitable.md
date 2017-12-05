@@ -1,6 +1,6 @@
 ### where
 
-```
+```java
 package com.company;
 //code by songbo
 public class Main {
